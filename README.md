@@ -4,8 +4,9 @@ My name is Marcel Tannich. I’m a passionate coder & WordPress Enthusiast origi
 
 ## 📬 Get in touch
 - Web: [marceltannich.com][1]
-- LinkedIn: [linkedin.com/in/MarcelTannich][2]
+- LinkedIn: [linkedin.com/in/marceltannich][2]
 - Twitter: [twitter.com/MarcelTannich][3]
+- WordPress.org: [https://profiles.wordpress.org/mardroid/][4]
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -13,3 +14,8 @@ My name is Marcel Tannich. I’m a passionate coder & WordPress Enthusiast origi
 - [My first WordCamp as speaker](https://www.marceltannich.com/my-first-wordcamp-as-speaker/)
 - [An introduction to WP-CLI for Beginners](https://www.marceltannich.com/an-introduction-to-wp-cli/)
 <!-- BLOG-POST-LIST:END -->
+
+[1]: https://marceltannich.com
+[2]: https://www.linkedin.com/in/marceltannich
+[3]: https://twitter.com/MarcelTannich
+[4]:https://profiles.wordpress.org/mardroid
