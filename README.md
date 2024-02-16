@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Marcel Tannich. I’m a passionate coder & WordPress Enthusiast originally from Innsbruck/Austria, living in Spain. I work as a WordPress Technical Supporter & Team Leader at OnTheGoSystems, the company behind the popular WordPress plugins WPML and Toolset, where I’m helping people worldwide to make their WordPress projects multilingual.
+My name is Marcel Tannich. I’m a passionate coder and WordPress enthusiast, originally from Innsbruck, Austria, now living in Spain. I work as a WordPress Technical Support Team Lead at OnTheGoSystems, the company behind the popular WordPress plugins WPML and Toolset. Here, I help people worldwide make their WordPress projects multilingual.
 
 ## 📬 Get in touch
 - Web: [marceltannich.com][1]
@@ -10,12 +10,14 @@ My name is Marcel Tannich. I’m a passionate coder & WordPress Enthusiast origi
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Workshop at WordCamp EU 2021](https://www.marceltannich.com/workshop-at-wordcamp-eu-2021/)
-- [My first WordCamp as speaker](https://www.marceltannich.com/my-first-wordcamp-as-speaker/)
-- [An introduction to WP-CLI for Beginners](https://www.marceltannich.com/an-introduction-to-wp-cli/)
+- [Getting started with Git](https://www.tannich.com/getting-started-with-git-introduction-for-beginners/)
+- [Tools and Services I recommend](https://www.tannich.com/tools-services-i-recommend/)
+- [Workshop at WordCamp EU 2021](https://www.tannich.com/workshop-at-wordcamp-eu-2021/)
+- [My first WordCamp as speaker](https://www.tannich.com/my-first-wordcamp-as-speaker/)
+- [An introduction to WP-CLI for Beginners](https://www.tannich.com/an-introduction-to-wp-cli/)
 <!-- BLOG-POST-LIST:END -->
 
-[1]: https://marceltannich.com
+[1]: https://tannich.com
 [2]: https://www.linkedin.com/in/marceltannich
 [3]: https://twitter.com/MarcelTannich
 [4]:https://profiles.wordpress.org/mardroid
