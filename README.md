@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Marcel Tannich. I’m a passionate coder and WordPress enthusiast, originally from Innsbruck, Austria, now living in Spain. I work as a WordPress Technical Support Team Lead at OnTheGoSystems, the company behind the popular WordPress plugins WPML and Toolset. Here, I help people worldwide make their WordPress projects multilingual.
+My name is Marcel Tannich. I’m a passionate coder and WordPress enthusiast from Austria, based in Spain. As a support team lead at OnTheGoSystems, the team behind WPML, I help clients worldwide make their WordPress sites multilingual. I love sharing my knowledge by speaking at WordCamps, hosting workshops, and contributing as a volunteer or organizer at these events.
 
 ## 📬 Get in touch
 - Web: [tannich.com][1]
