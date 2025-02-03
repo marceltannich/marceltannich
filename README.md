@@ -8,7 +8,7 @@ I enjoy sharing knowledge at WordCamps, contributing to WordPress through code a
 - Web: [tannich.com][1]
 - LinkedIn: [linkedin.com/in/marceltannich][2]
 - Bluesky: [bsky.app/profile/tannich.com][3]
-- WordPress.org: [https://profiles.wordpress.org/mardroid/][4]
+- WordPress.org: [profiles.wordpress.org/mardroid/][4]
 
 [1]: https://tannich.com
 [2]: https://www.linkedin.com/in/marceltannich
