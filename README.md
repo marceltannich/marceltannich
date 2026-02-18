@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I’m Marcel Tannich, a freelance WordPress developer based in Spain with 15+ years of experience in IT. Since 2018, I’ve been working full-time with WordPress and currently collaborate with OnTheGoSystems, leading one of their technical support teams.
+I’m Marcel Tannich, a freelance WordPress developer based in Vienna with 15+ years of experience in IT. Since 2018, I’ve been working full-time with WordPress and currently collaborate with OnTheGoSystems, leading one of their technical support teams for WPML.
 
 I enjoy sharing knowledge at WordCamps, contributing to WordPress through code and community projects, and was a co-lead for the Content Team at WordCamp Europe 2023. Passionate about training, I help others grow in their technical roles.
 
