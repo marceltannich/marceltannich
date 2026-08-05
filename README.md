@@ -1,8 +1,10 @@
 ### Hello! 👋
 
-I’m Marcel Tannich, a freelance WordPress developer based in Vienna with 15+ years of experience in IT. Since 2018, I’ve been working full-time with WordPress and currently collaborate with OnTheGoSystems, leading one of their technical support teams for WPML.
+I'm Marcel Tannich, a freelance WordPress consultant based in Vienna, Austria, with over 16 years of experience in IT and software development. I specialize in solving complex WordPress issues involving WPML, WooCommerce, ACF/SCF, legacy codebases, plugin conflicts, and advanced debugging.
 
-I enjoy sharing knowledge at WordCamps, contributing to WordPress through code and community projects, and was a co-lead for the Content Team at WordCamp Europe 2023. Passionate about training, I help others grow in their technical roles.
+I'm a contributor to the WordPress.org Plugins Team through the Five for the Future program, with my contribution time sponsored by SiteGround. Beyond contributing to WordPress, I co-organize WordCamp Vienna, regularly speak at WordCamps, and previously served as Co-Lead of the Content Team for WordCamp Europe 2023.
+
+I enjoy tackling challenging technical problems, sharing knowledge with the WordPress community, and helping businesses keep their websites stable, secure, and reliable.
 
 ## 📬 Get in touch
 - Web: [tannich.com][1]
